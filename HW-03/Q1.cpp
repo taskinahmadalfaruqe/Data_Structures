@@ -9,8 +9,8 @@ int rotateLeft(int n, int k) {
 
 int main() {
     int n = 16;
-    int k = 2;
+    int k = 3;
     int result = rotateLeft(n, k);
-    cout << "Result: " << result << endl;
+    cout << "Base Number-: "<<n<<" Shift Amount-: "<<k<<" Result-: "<< result << endl;
     return 0;
 }

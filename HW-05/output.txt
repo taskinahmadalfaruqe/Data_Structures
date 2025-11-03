@@ -1,0 +1,17 @@
+Pushing [1,2,3,4,5] to Stack 1...
+Pushing [7,8,9,10,11] to Stack 2...
+
+BothStack contents:
+Stack 1 (left): 1 2 3 4 5 
+Stack 2 (right): 7 8 9 10 11 
+Full array: 1 2 3 4 5 11 10 9 8 7 
+
+Popping one element from each stack:
+Popped from Stack 1: 5
+Popped from Stack 2: 11
+
+After popping:
+BothStack contents:
+Stack 1 (left): 1 2 3 4 
+Stack 2 (right): 7 8 9 10 
+Full array: 1 2 3 4 _ _ 10 9 8 7 

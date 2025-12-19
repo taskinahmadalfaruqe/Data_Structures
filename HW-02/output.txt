@@ -1,1 +1,1 @@
-Enter score (0-100): Excellent
+Enter score (0-100): Invalid input! Please enter a number.
